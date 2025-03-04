@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/kironmoy%20Roy/Desktop/aml/Assignment02/mlruns/870142650658658525/070cc9b135e9499c9090ac077b9da06d/artifacts
+end_time: 1741106235009
+entry_point_name: ''
+experiment_id: '870142650658658525'
+lifecycle_stage: active
+run_id: 070cc9b135e9499c9090ac077b9da06d
+run_name: Logistic Regression
+run_uuid: 070cc9b135e9499c9090ac077b9da06d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741106222345
+status: 3
+tags: []
+user_id: kironmoy Roy

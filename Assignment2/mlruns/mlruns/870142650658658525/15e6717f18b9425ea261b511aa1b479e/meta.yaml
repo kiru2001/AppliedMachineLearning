@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/kironmoy%20Roy/Desktop/aml/Assignment02/mlruns/870142650658658525/15e6717f18b9425ea261b511aa1b479e/artifacts
+end_time: 1741106253457
+entry_point_name: ''
+experiment_id: '870142650658658525'
+lifecycle_stage: active
+run_id: 15e6717f18b9425ea261b511aa1b479e
+run_name: Random Forest
+run_uuid: 15e6717f18b9425ea261b511aa1b479e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741106235019
+status: 3
+tags: []
+user_id: kironmoy Roy
